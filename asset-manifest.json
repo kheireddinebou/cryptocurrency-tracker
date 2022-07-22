@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency-tracker/static/css/main.f32e9301.css",
+    "main.js": "/cryptocurrency-tracker/static/js/main.7714c995.js",
+    "index.html": "/cryptocurrency-tracker/index.html",
+    "main.f32e9301.css.map": "/cryptocurrency-tracker/static/css/main.f32e9301.css.map",
+    "main.7714c995.js.map": "/cryptocurrency-tracker/static/js/main.7714c995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32e9301.css",
+    "static/js/main.7714c995.js"
+  ]
+}
